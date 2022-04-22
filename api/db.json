@@ -1,28 +1,3 @@
 {
-  "todos": [
-    {
-      "title": "test",
-      "description": "test",
-      "userId": "115566852655357237499",
-      "id": 3
-    },
-    {
-      "title": "Clean Room",
-      "description": "clean the closet",
-      "userId": "115566852655357237499",
-      "id": 4
-    },
-    {
-      "title": "Car",
-      "description": "Clean the seats",
-      "userId": "115566852655357237499",
-      "id": 5
-    },
-    {
-      "title": "clean living",
-      "description": "sweep the floor",
-      "userId": "115566852655357237499",
-      "id": 6
-    }
-  ]
+  "todos": []
 }

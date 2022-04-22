@@ -15,7 +15,7 @@ class TodoEdit extends React.Component {
   }
 
   render() {
-   if (!this.props.todos) {
+   if (!this.props.todo) {
      return <div>Loading...</div>
    }
 
@@ -29,7 +29,7 @@ class TodoEdit extends React.Component {
 }
 
 const mapStateToProps = (state, ownProps) => {
-  return { todos: state.todos[ownProps.match.params.id] };
+  return { todo: state.todos[ownProps.match.params.id] };
 }
 
 export default connect(mapStateToProps, { fetchTodo, editTodo }) (TodoEdit);
