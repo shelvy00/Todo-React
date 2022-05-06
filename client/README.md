@@ -36,7 +36,7 @@ Next, create a ```.env file``` in the root directory to store your Spotify Crede
 
 - After that, go back to "Credentials", clcik on "Create credentials" and select "OAuth client ID".
 
-- Select, "Web application", and under "Authorized JavaScript origins enter, [http://localhost:3000]("http://localhost:3000") and click "Create"
+- Select, "Web application", and under "Authorized JavaScript origins enter, ["http://localhost:3000"]("http://localhost:3000") and click "Create"
 
 - A pop up of your "client ID" and "client secret" will appear. The only one you will need for this project is the "client ID".
 
