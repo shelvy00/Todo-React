@@ -46,7 +46,7 @@ Next, create a ```.env file``` in the root directory to store your Spotify Crede
 
 - In the terminal run npm start. This will run the app in development mode, on port [http://localhost:3000](http://localhost:3000).
 
-- The page will reload when you make changes. You may also see any lint errors in the console.
+- The page will reload when you make changes. You may also see errors in the console.
 
 
 
