@@ -24,7 +24,7 @@ Next, create a ```.env file``` in the root directory to store your Spotify Crede
 
 ### How to get Client id
 
-- Go to [console.developers.google.com.](hhtps://cloud.google.com)
+- Go to [console.developers.google.com](https://cloud.google.com)
 
 - Click on project dropdown in the top left hand sign, and click "NEW PROJECT".
 
